@@ -1,0 +1,22 @@
+{
+"products": [{"id":1,"name":"Jaguar","category":"Violet"},
+{"id":2,"name":"Rat, desert kangaroo","category":"Khaki"},
+{"id":3,"name":"Snake, buttermilk","category":"Maroon"},
+{"id":4,"name":"Cape raven","category":"Red"},
+{"id":5,"name":"Southern hairy-nosed wombat","category":"Yellow"},
+{"id":6,"name":"Skink, blue-tongued","category":"Turquoise"},
+{"id":7,"name":"Currasow (unidentified)","category":"Green"},
+{"id":8,"name":"Snake, carpet","category":"Teal"},
+{"id":9,"name":"Baboon, gelada","category":"Fuscia"},
+{"id":10,"name":"Roan antelope","category":"Orange"},
+{"id":11,"name":"Francolin, coqui","category":"Khaki"},
+{"id":12,"name":"Defassa waterbuck","category":"Yellow"},
+{"id":13,"name":"Yellow-rumped siskin","category":"Crimson"},
+{"id":14,"name":"Hottentot teal","category":"Puce"},
+{"id":15,"name":"Common wombat","category":"Red"},
+{"id":16,"name":"Southern hairy-nosed wombat","category":"Green"},
+{"id":17,"name":"Tammar wallaby","category":"Violet"},
+{"id":18,"name":"Common langur","category":"Teal"},
+{"id":19,"name":"Flicker, field","category":"Fuscia"},
+{"id":20,"name":"Bison, american","category":"Teal"}]
+}
